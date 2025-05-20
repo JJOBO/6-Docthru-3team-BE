@@ -1,7 +1,7 @@
 export const challengeMocks = [
   {
     id: 1,
-    authorId: "c6837b049ae154e50bd48253",
+    authorId: "user3",
     title: "Next.js - App Router: Routing Fundamentals",
     description: "이번 기회에 이 주제에 대해 확실하게 익혀봐요!",
     category: "Next.js",
@@ -14,7 +14,7 @@ export const challengeMocks = [
   },
   {
     id: 2,
-    authorId: "c2052b9d8d2534fe5b64b0eb",
+    authorId: "user2",
     title: "JavaScript 모던 문법 총정리",
     description: "챌린지를 통해 실력을 한층 업그레이드해보세요 :)",
     category: "Career",
@@ -27,7 +27,7 @@ export const challengeMocks = [
   },
   {
     id: 3,
-    authorId: "c52fe92085bb04441909ca47",
+    authorId: "user4",
     title: "RESTful API 설계 Best Practices",
     description: "해당 주제에 대한 깊이 있는 내용을 다룹니다. 도전해보세요!",
     category: "Career",
@@ -40,7 +40,7 @@ export const challengeMocks = [
   },
   {
     id: 4,
-    authorId: "c2052b9d8d2534fe5b64b0eb",
+    authorId: "user1",
     title: "웹 접근성(Accessibility) 가이드",
     description:
       "관련 주제에 대한 내용을 학습하고, 요약 및 정리하는 챌린지입니다. 함께 공부해요!",
@@ -54,7 +54,7 @@ export const challengeMocks = [
   },
   {
     id: 5,
-    authorId: "c52fe92085bb04441909ca47",
+    authorId: "user10",
     title: "Tech 커리어 로드맵 2025",
     description: "해당 주제에 대한 깊이 있는 내용을 다룹니다. 도전해보세요!",
     category: "Web",
@@ -67,7 +67,7 @@ export const challengeMocks = [
   },
   {
     id: 6,
-    authorId: "ccbce53ae1ef34bc69c77c7c",
+    authorId: "user8",
     title: "Next.js 이미지 최적화 전략",
     description: "챌린지를 통해 실력을 한층 업그레이드해보세요 :)",
     category: "Modern JS",
@@ -80,7 +80,7 @@ export const challengeMocks = [
   },
   {
     id: 7,
-    authorId: "ce3947e60516548f2bc60fad",
+    authorId: "user9",
     title: "JavaScript 비동기 처리 완전 정복",
     description: "이번 기회에 이 주제에 대해 확실하게 익혀봐요!",
     category: "Modern JS",
@@ -93,7 +93,7 @@ export const challengeMocks = [
   },
   {
     id: 8,
-    authorId: "c5ecd4fa40a4d4dc2acc4da6",
+    authorId: "user13",
     title: "GraphQL vs REST 비교 분석",
     description: "챌린지를 통해 실력을 한층 업그레이드해보세요 :)",
     category: "Web",
@@ -106,7 +106,7 @@ export const challengeMocks = [
   },
   {
     id: 9,
-    authorId: "c5cf47071f9ab45879533749",
+    authorId: "user18",
     title: "웹 성능 개선을 위한 핵심 팁",
     description: "이번 기회에 이 주제에 대해 확실하게 익혀봐요!",
     category: "Next.js",
@@ -119,7 +119,7 @@ export const challengeMocks = [
   },
   {
     id: 10,
-    authorId: "c8f5521af4b8f46e591a96e7",
+    authorId: "user20",
     title: "프론트엔드 포트폴리오 작성법",
     description: "챌린지를 통해 실력을 한층 업그레이드해보세요 :)",
     category: "Career",
@@ -132,7 +132,7 @@ export const challengeMocks = [
   },
   {
     id: 11,
-    authorId: "c6837b049ae154e50bd48253",
+    authorId: "user5",
     title: "Next.js 서버 컴포넌트란?",
     description: "챌린지를 통해 실력을 한층 업그레이드해보세요 :)",
     category: "API",
@@ -145,7 +145,7 @@ export const challengeMocks = [
   },
   {
     id: 12,
-    authorId: "c481408e540ed4be1af7c76d",
+    authorId: "user3",
     title: "ES2025 새로운 문법 미리 보기",
     description:
       "공식 문서나 블로그를 읽고, 핵심 내용을 정리해보는 챌린지입니다!",
@@ -159,7 +159,7 @@ export const challengeMocks = [
   },
   {
     id: 13,
-    authorId: "c5ecd4fa40a4d4dc2acc4da6",
+    authorId: "user12",
     title: "OAuth 2.0 흐름 쉽게 이해하기",
     description: "이번 기회에 이 주제에 대해 확실하게 익혀봐요!",
     category: "Next.js",
@@ -172,7 +172,7 @@ export const challengeMocks = [
   },
   {
     id: 14,
-    authorId: "ce3947e60516548f2bc60fad",
+    authorId: "user18",
     title: "반응형 디자인의 모든 것",
     description: "해당 주제에 대한 깊이 있는 내용을 다룹니다. 도전해보세요!",
     category: "Career",
@@ -185,7 +185,7 @@ export const challengeMocks = [
   },
   {
     id: 15,
-    authorId: "cee35f42a70e245508687012",
+    authorId: "user19",
     title: "기술 블로그 운영 전략",
     description:
       "공식 문서나 블로그를 읽고, 핵심 내용을 정리해보는 챌린지입니다!",
@@ -199,7 +199,7 @@ export const challengeMocks = [
   },
   {
     id: 16,
-    authorId: "cabf3973a67a6499f8d570ea",
+    authorId: "user11",
     title: "Next.js에서의 에러 처리 패턴",
     description:
       "관련 주제에 대한 내용을 학습하고, 요약 및 정리하는 챌린지입니다. 함께 공부해요!",
@@ -213,7 +213,7 @@ export const challengeMocks = [
   },
   {
     id: 17,
-    authorId: "c2052b9d8d2534fe5b64b0eb",
+    authorId: "user2",
     title: "JS 런타임 환경 비교(Node vs Deno)",
     description:
       "공식 문서나 블로그를 읽고, 핵심 내용을 정리해보는 챌린지입니다!",
@@ -227,7 +227,7 @@ export const challengeMocks = [
   },
   {
     id: 18,
-    authorId: "c3dafd922565c4131ad8fcf0",
+    authorId: "user4",
     title: "API 테스트 자동화하기",
     description: "해당 주제에 대한 깊이 있는 내용을 다룹니다. 도전해보세요!",
     category: "API",
@@ -240,7 +240,7 @@ export const challengeMocks = [
   },
   {
     id: 19,
-    authorId: "c92850f5450874214b559582",
+    authorId: "user7",
     title: "웹 애니메이션에 관한 고찰",
     description:
       "공식 문서나 블로그를 읽고, 핵심 내용을 정리해보는 챌린지입니다!",
@@ -254,7 +254,7 @@ export const challengeMocks = [
   },
   {
     id: 20,
-    authorId: "c52fe92085bb04441909ca47",
+    authorId: "user19",
     title: "개발자 커뮤니티 활용법",
     description:
       "관련 주제에 대한 내용을 학습하고, 요약 및 정리하는 챌린지입니다. 함께 공부해요!",
